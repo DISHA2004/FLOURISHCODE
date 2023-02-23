@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FLOURISHCODE/static/css/main.6973748c.css",
+    "main.js": "/FLOURISHCODE/static/js/main.892e150a.js",
+    "index.html": "/FLOURISHCODE/index.html",
+    "main.6973748c.css.map": "/FLOURISHCODE/static/css/main.6973748c.css.map",
+    "main.892e150a.js.map": "/FLOURISHCODE/static/js/main.892e150a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6973748c.css",
+    "static/js/main.892e150a.js"
+  ]
+}
